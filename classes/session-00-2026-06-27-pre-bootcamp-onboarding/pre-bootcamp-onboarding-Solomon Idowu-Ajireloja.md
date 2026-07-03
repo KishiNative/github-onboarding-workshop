@@ -8,11 +8,8 @@
 
 ---
 
-## Lab / Hands-On Work
-<!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
-
 ### What I did
-- Created my personal repository for the class assignment
+- i was able to forked the class repository for the class assignment
 - Initialized the repository with a README file
 - Cloned the repository to my local machine
 - upload my edited file from my local machine with my name and reupload
@@ -21,12 +18,10 @@
 ### What happened / Result
 - The repository was successfully created and updated on GitHub
 - My initial setup was complete without issues
+- i successfully submitted my onboarding task
 
 ### Challenges I faced
-- Since I was already familiar with GitHub, I didn't encounter significant challenges
-- However, I refreshed my understanding of some commands like `git clone`, `git commit`, and `git push`
-
----
+No challenges so far
 
 ## My Key Takeaways
 <!-- What was most valuable to you personally from this session? -->
@@ -39,10 +34,7 @@
 
 ## Questions I Still Have
 <!-- Anything you want to follow up on or ask the mentor -->
-- How can I effectively resolve merge conflicts when collaborating with others?
-- Are there advanced Git commands or workflows I should learn for larger projects?
-- How do I manage access permissions for different collaborators?
-
+No question
 ---
 
 *Submitted by: Solomon Idowu, Ajireloja · [Your GitHub: Jirelking]*
