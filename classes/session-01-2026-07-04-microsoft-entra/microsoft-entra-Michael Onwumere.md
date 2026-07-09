@@ -103,7 +103,8 @@ Suppose you work in a car repair shop. Your organization keeps track of the diff
 This explains how to securely authenticate API plugins used by Microsoft 365 Copilot declarative agents when connecting to protected APIs. Since most enterprise APIs require authentication, developers must configure the appropriate authentication method so that the agent can securely access external services without exposing sensitive credentials.
 
 # This covers two common authentication methods:
-•	API Key Authentication – The API key is stored securely and referenced by the API plugin at runtime, allowing the declarative agent to access APIs that are protected by an API key without hardcoding the secret into the application. 
+•	API Key Authentication – The API key is stored securely and referenced by the API plugin at runtime, allowing the declarative agent to access APIs that are protected by an API key without hardcoding the secret into the application.
+
 •	OAuth Authentication – The declarative agent authenticates users through an identity provider such as Microsoft Entra ID. After the user signs in and grants consent, an access token is issued and used to securely call the protected API on the user's behalf. This approach is recommended for enterprise applications because it provides stronger security and supports delegated permissions. 
 The module also includes hands-on exercises where developers integrate an API plugin with both an API Key-protected API and an OAuth protected API, then test the plugin in Microsoft 365 Copilot to verify that authentication and API communication work correctly. 
 
